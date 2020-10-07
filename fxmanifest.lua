@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Boilerplate'
+description "DokaDoka's"
 
 server_scripts {
 	'server/main.lua'
